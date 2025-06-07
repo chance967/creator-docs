@@ -1,10 +1,10 @@
-name: DialogChoice
+name: shopkeeper
 type: class
 memory_category: Instances
-summary: |
+summary: |came from ireland 
   Used to craft the further choices available to players who have started a
   dialog conversation with an NPC.
-description: |
+description: |an old shopkeeper who loves fish
   Used to craft the further choices available to players who have started a
   dialog conversation with an NPC.
 code_samples: []
